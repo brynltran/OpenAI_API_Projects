@@ -1,0 +1,1 @@
+This code simply calls to openai to complete a sentence with davinci
